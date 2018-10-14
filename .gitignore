@@ -4,3 +4,6 @@ websocket/.settings/
 simple-web-app/.classpath
 simple-web-app/.project
 simple-web-app/.settings/
+tcpsocket/.project
+tcpsocket/.classpath
+tcpsocket/.settings/
